@@ -1,0 +1,20 @@
+.footer {
+  background-color: #2e2f42;
+}
+.logo-studio-f {
+  font-family: "Raleway", sans-serif;
+  color: #f4f4fd;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 21px;
+  letter-spacing: 3%;
+}
+.body-f {
+  color: #f4f4fd;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 2%;
+}

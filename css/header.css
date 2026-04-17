@@ -1,0 +1,67 @@
+.logo-web {
+  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 21px;
+  letter-spacing: 3%;
+}
+.logo-studio {
+  font-family: "Raleway", sans-serif;
+  color: #2e2f42;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 21px;
+  letter-spacing: 3%;
+}
+.logo {
+  text-decoration: none;
+}
+.nav {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 2%;
+  list-style-type: none;
+}
+.nav-link {
+  color: #2e2f42;
+  text-decoration: none;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+.nav-link-1 {
+  color: #2e2f42;
+  text-decoration: none;
+}
+.nav-link-1:hover,
+.nav-link-1:focus {
+  color: #404bbf;
+}
+.nav-link-1:active {
+  text-decoration: underline 2px #404bbf;
+}
+.address {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+.address :hover,
+.address :focus {
+  color: #404bbf;
+}
+.address-link {
+  color: #434455;
+  text-decoration: none;
+  font-style: normal;
+}
+.list {
+  list-style-type: none;
+}
