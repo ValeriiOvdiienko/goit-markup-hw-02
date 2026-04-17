@@ -5,8 +5,8 @@
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
 }
 .logo-studio {
   font-family: "Raleway", sans-serif;
@@ -15,8 +15,8 @@
   font-weight: 700;
   text-align: center;
   text-transform: uppercase;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
 }
 .logo {
   text-decoration: none;
@@ -24,8 +24,8 @@
 .nav {
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 2%;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   list-style-type: none;
 }
 .nav-link {
@@ -36,29 +36,21 @@
 .nav-link:focus {
   color: #404bbf;
 }
-.nav-link-1 {
-  color: #2e2f42;
-  text-decoration: none;
-}
-.nav-link-1:hover,
-.nav-link-1:focus {
-  color: #404bbf;
-}
-.nav-link-1:active {
+.nav-link:active {
   text-decoration: underline 2px #404bbf;
 }
 .address {
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 2%;
-}
-.address :hover,
-.address :focus {
-  color: #404bbf;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .address-link {
   color: #434455;
   text-decoration: none;
   font-style: normal;
+}
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
 }
